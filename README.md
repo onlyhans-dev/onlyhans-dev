@@ -1,3 +1,5 @@
+Hello, I'm Hans. I have AuDHD and I'm steaming programming stuff on Twiitch
+
 [![@onlyhans-dev Astro contributions](https://astro.badg.es/v2/contributor/onlyhans-dev.svg)](https://astro.badg.es/contributor/onlyhans-dev/)
 
 <!--
